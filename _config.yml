@@ -1,4 +1,15 @@
 title: Hanni Studios
 description: My creative experiments
 theme: jekyll-theme-minimal
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Vintage Finds"
+    url: "/vintage/"
+  - title: "DIY"
+    url: "/diy/"
+  - title: "Blog"
+    url: "/blog/"
 
