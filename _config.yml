@@ -1,7 +1,7 @@
-layout: default
 title: Hanni Studios
-description: My creative experiments
 theme: jekyll-theme-minimal
+description: Vintage and handmade finds
+
 navigation:
   - title: "Home"
     url: "/"
