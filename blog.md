@@ -23,4 +23,5 @@ Welcome to my creative journal! Here's what's new (minus the glue and scissors â
   {% endfor %}
 </div>
 {% else %}
-<p>
+<p>No blog posts yet â€” check back soon!</p>
+{% endif %}
