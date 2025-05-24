@@ -9,33 +9,38 @@ Vintage brass is one of my favorite ways to add warmth and character to any room
 
 ---
 
-### 1. Layered Brass Candlesticks
+### 🕯️ 1. Layered Brass Candlesticks
 
 Group mismatched candlesticks together on a mantle or sideboard. Look for different heights and patinas — the more worn, the better! I love pairing them with hand-dipped taper candles in moody tones like rust or forest green.
 
 ---
 
-###  2. Brass Frames
-Framing a photo or artwork in a brass picture frame immediately elevates it. I am able to find so many frames secondhand in a variety of sizes and they make a perfect edition to a gallery wall.
-[Brass candlesticks](../assets/brassgallery.jpeg)
+### 🖼️ 2. Brass Frames
+
+Framing a photo or artwork in a brass picture frame immediately elevates it. I find so many secondhand frames in various sizes — they make the perfect addition to a gallery wall.
+
+<figure style="text-align: center;">
+  <img src="/assets/images/brassgallery.jpeg" alt="Gallery wall with brass frames" width="600">
+  <figcaption>My growing brass frame collection</figcaption>
+</figure>
 
 ---
 
-### 3. Brass + Botanicals
+### 🌿 3. Brass + Botanicals
 
-Brass and greenery are a match made in heaven. Try styling small brass planters with trailing vines, or use a brass tray to holding fern leaves, cut from the wild. The contrast of soft green with golden metal just works.
+Brass and greenery are a match made in heaven. Try styling small brass planters with trailing vines, or use a brass tray to hold freshly cut fern leaves. The contrast of soft green with golden metal just works.
 
 ---
 
-### 4. Shelf Styling with Brass Accents
+### 📚 4. Shelf Styling with Brass Accents
 
 Mix in small brass objects — animals, bowls, vases (the quirkier the better!) — alongside books and ceramics. They add a pop of shine and make your shelf look collected, not cluttered.
 
 ---
 
-### Tip: Embrace the Imperfections
+### 💡 Tip: Embrace the Imperfections
 
-I love returning brass to the original state. Polished brass is beautiful, but so is the aged, slightly tarnished look. I rarely clean my pieces — a little patina tells a story.
+I love letting brass age naturally. Polished brass is beautiful, but so is the slightly tarnished look. A little patina tells a story — I rarely clean my pieces unless I want a real shine.
 
 ---
 
@@ -43,4 +48,6 @@ I love returning brass to the original state. Polished brass is beautiful, but s
 
 ---
 
-Check out my pinterest board for more ideas on styling vintage brass! Have a favorite vintage brass find? Tag me on Instagram [@hannistudios_](https://instagram.com/hannistudios_) — I’d love to see it!
+📌 **Want more ideas?**  
+Check out my [Pinterest board]([https://pinterest.com/hannistudios](https://www.pinterest.com/hannistudios/vintage-brass-styling/) for inspiration.  
+Have a favorite vintage brass find? Tag me on [Instagram @hannistudios_](https://instagram.com/hannistudios_) — I’d love to see it!
