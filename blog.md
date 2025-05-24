@@ -13,6 +13,7 @@ Welcome to my creative journal! Here's what's new (minus the glue and scissors â
 {% if blog_posts.size > 0 %}
 <div class="post-grid">
   {% for post in blog_posts %}
+     {% unless post.categories contains "diy" %}
     <div class="post-card">
       <a href="{{ post.url }}">
         <img src="{{ post.featured_image }}" alt="{{ post.title }}" loading="lazy">
