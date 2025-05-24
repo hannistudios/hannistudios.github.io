@@ -4,46 +4,7 @@
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- adding post grid-->
-  .post-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
 
-.post-card {
-  text-align: center;
-  border: 1px solid #eee;
-  padding: 1rem;
-  border-radius: 8px;
-  background: #fafafa;
-  transition: box-shadow 0.2s ease;
-}
-
-.post-card:hover {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
-}
-
-.post-card img {
-  width: 100%;
-  height: auto;
-  border-radius: 4px;
-  margin-bottom: 0.5rem;
-}
-
-.post-card h3 {
-  font-size: 1.1rem;
-  margin: 0.5rem 0;
-  font-family: 'Playfair Display', serif;
-}
-
-.post-date {
-  font-size: 0.8rem;
-  color: #666;
-}
-
-  
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Playfair+Display:wght@500;700&display=swap" rel="stylesheet">
 
@@ -109,6 +70,45 @@
     footer .social-links a:hover {
       text-decoration: underline;
     }
+
+    /* Post Grid Styles */
+    .post-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+
+    .post-card {
+      text-align: center;
+      border: 1px solid #eee;
+      padding: 1rem;
+      border-radius: 8px;
+      background: #fafafa;
+      transition: box-shadow 0.2s ease;
+    }
+
+    .post-card:hover {
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+    }
+
+    .post-card img {
+      width: 100%;
+      height: auto;
+      border-radius: 4px;
+      margin-bottom: 0.5rem;
+    }
+
+    .post-card h3 {
+      font-size: 1.1rem;
+      margin: 0.5rem 0;
+      font-family: 'Playfair Display', serif;
+    }
+
+    .post-date {
+      font-size: 0.8rem;
+      color: #666;
+    }
   </style>
 </head>
 <body>
@@ -128,5 +128,7 @@
       <a href="https://pinterest.com/hannistudios" target="_blank">Pinterest</a> |
       <a href="https://etsy.com/shop/HanniStudios" target="_blank">Etsy</a> |
       <a href="https://youtube.com/@hannistudios1" target="_blank">YouTube</a>
-  </div>
-</footer>
+    </div>
+  </footer>
+</body>
+</html>
