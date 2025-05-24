@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Style Vintage Brass
-featured_image: /assets/images/brassgallery.jpeg
+permalink: /2025/05/23/how-to-style-vintage-brass.html
+thumbnail_image: /assets/images/brassgallery.jpeg
 ---
 
 # How to Style Vintage Brass
