@@ -1,3 +1,5 @@
+## Welcome to Hanni Studio!
+
 ## Recent Blog Posts
 
 <div class="post-grid">
