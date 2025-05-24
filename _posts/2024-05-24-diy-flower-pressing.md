@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DIY Flower Pressing
+permalink: /2025/05/24/diy-flower-pressing.html
 featured_image: 
 categories: [diy]
 ---
