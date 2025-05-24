@@ -17,8 +17,8 @@ Here’s a collection of tutorials and creative experiments — from handmade de
       <a href="{{ post.url }}">
         <div class="img-wrapper">
           <img 
-            src="{{ post.featured_image | default: '/assets/images/fallback.jpeg' }}" 
-            onerror="this.onerror=null;this.src='/assets/images/fallback.jpeg';" 
+            src="{{ post.featured_image | default: '/assets/images/fallback.jpg' }}" 
+            onerror="this.onerror=null;this.src='/assets/images/fallback.jpg';" 
             alt="{{ post.title }}" 
             loading="lazy">
         </div>
