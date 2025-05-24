@@ -4,7 +4,7 @@
   <em>Curating quirky, character-filled vintage finds and fun DIY projects for a home that tells your story.</em>
 </p>
 
-## Recent Blog Posts
+## Recent Posts
 
 <div class="post-grid">
   {% for post in site.posts limit:3 %}
