@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DIY Flower Pressing
-featured_image: /assets/images/pressed-flowers.jpg
+featured_image: 
 categories: [diy]
 ---
 
