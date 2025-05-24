@@ -15,7 +15,13 @@ Here’s a collection of tutorials and creative experiments — from handmade de
   {% for post in diy_posts %}
     <div class="post-card">
       <a href="{{ post.url }}">
-        <img src="{{ post.featured_image }}" alt="{{ post.title }}" loading="lazy">
+        <div class="img-wrapper">
+          <img 
+            src="{{ post.featured_image | default: '/assets/images/fallback.jpeg' }}" 
+            onerror="this.onerror=null;this.src='/assets/images/fallback.jpeg';" 
+            alt="{{ post.title }}" 
+            loading="lazy">
+        </div>
         <h3>{{ post.title }}</h3>
       </a>
       <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
