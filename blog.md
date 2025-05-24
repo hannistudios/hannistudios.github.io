@@ -6,8 +6,6 @@ permalink: /blog/
 
 # Blog
 
-Welcome to my creative journal! 
-
 {% if site.posts.size > 0 %}
 <div class="post-grid">
   {% for post in site.posts %}
