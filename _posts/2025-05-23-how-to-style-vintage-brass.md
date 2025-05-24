@@ -22,7 +22,7 @@ Group mismatched candlesticks together on a mantle or sideboard. Look for differ
 Framing a photo or artwork in a brass picture frame immediately elevates it. I find so many secondhand frames in various sizes — they make the perfect addition to a gallery wall.
 
 <figure style="text-align: center;">
-  <img src="assets/images/brassgallery.jpeg" alt="Gallery wall with brass frames" width="600">
+  <img src="/assets/images/brassgallery.jpeg" alt="Gallery wall with brass frames" width="600">
   <figcaption>My growing brass frame collection</figcaption>
 </figure>
 
