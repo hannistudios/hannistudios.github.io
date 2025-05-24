@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How to Style Vintage Brass
+featured_image: /assets/images/brassgallery.jpeg
 ---
 
 # How to Style Vintage Brass
