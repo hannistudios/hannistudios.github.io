@@ -6,7 +6,7 @@ permalink: /blog/
 
 # Blog
 
-Welcome to my creative journal! Here's what's new (minus the glue and scissors â€” those live on the [DIY page](/diy/)).
+Welcome to my creative journal! 
 
 {% if site.posts.size > 0 %}
 <div class="post-grid">
@@ -14,7 +14,13 @@ Welcome to my creative journal! Here's what's new (minus the glue and scissors â
     {% unless post.categories contains "diy" %}
       <div class="post-card">
         <a href="{{ post.url }}">
-          <img src="{{ post.featured_image }}" alt="{{ post.title }}" loading="lazy">
+          <div class="img-wrapper">
+            <img 
+              src="{{ post.featured_image | default: '/assets/images/fallback.jpeg' }}" 
+              onerror="this.onerror=null;this.src='/assets/images/fallback.jpeg';" 
+              alt="{{ post.title }}" 
+              loading="lazy">
+          </div>
           <h3>{{ post.title }}</h3>
         </a>
         <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
