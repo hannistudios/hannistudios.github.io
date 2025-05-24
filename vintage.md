@@ -16,5 +16,6 @@ Click any image to learn more or shop!
   <a href="https://etsy.com/listing/2" target="_blank">
     <img src="https://via.placeholder.com/300x300.png?text=Item+2" alt="Vintage item 2">
   </a>
-  <a href="https://etsy.com/listing/3" target="_blank">
-    <img src="https://via.placeholder.com/300x30
+<a href="https://etsy.com/listing/3" target="_blank">
+  <img src="https://via.placeholder.com/300x300.png?text=Item+3" alt="Vintage item 3">
+</a>
