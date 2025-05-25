@@ -7,11 +7,30 @@ permalink: /vintage/
 # Vintage Finds
 
 Welcome to my collection of quirky, character-filled vintage decor.  
-Click any image to learn more or shop!
+Here you'll find stories, styling tips, and shopable treasures.  
 
 ---
-# Etsy Shop
+
+## Stories & Finds
+
+<div class="post-grid">
+  {% for post in site.categories.vintage limit:6 %}
+    <div class="post-card">
+      <a href="{{ post.url }}">
+        <div class="img-wrapper">
+          <img src="{{ post.featured_image | default: '/assets/images/fallback.jpg' }}" alt="{{ post.title }}">
+        </div>
+        <h3>{{ post.title }}</h3>
+      </a>
+      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+    </div>
+  {% endfor %}
+</div>
+
 ---
+
+## Etsy Shop
+
 <div class="listing-grid">
   <div class="listing">
     <a href="https://www.etsy.com/listing/4310565407/vintage-frog-candle-holder-bronze-finish" target="_blank">
