@@ -50,7 +50,7 @@ Here you'll find stories, styling tips, and shopable treasures.
 
   <div class="listing">
     <a href="https://www.etsy.com/listing/4297860317/vintage-hand-carved-wood-trivet-6-rustic" target="_blank">
-      <img src="assets/images/woodtrivet.jpg" alt="Wood Trivet">
+      <img src="/assets/images/woodtrivet.jpg" alt="Wood Trivet">
       <h3>Wood Carved Trivet</h3>
       <p>$18 – 6” rustic hand-carved floral trivet. Functional and folk-style.</p>
     </a>
