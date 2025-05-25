@@ -10,6 +10,8 @@ Welcome to my collection of quirky, character-filled vintage decor.
 Click any image to learn more or shop!
 
 ---
+# Etsy Shop
+---
 <div class="listing-grid">
   <div class="listing">
     <a href="https://www.etsy.com/listing/4310565407/vintage-frog-candle-holder-bronze-finish" target="_blank">
