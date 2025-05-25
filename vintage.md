@@ -34,7 +34,7 @@ Here you'll find stories, styling tips, and shopable treasures.
 <div class="listing-grid">
   <div class="listing">
     <a href="https://www.etsy.com/listing/4310565407/vintage-frog-candle-holder-bronze-finish" target="_blank">
-      <img src="https://i.etsystatic.com/49013698/r/il/5ef3eb/5803374423/il_794xN.5803374423_9mdp.jpg" alt="Vintage Frog Candle Holder">
+      <img src="/assets/images/frogcandle.jpg" alt="Vintage Frog Candle Holder">
       <h3>Vintage Frog Candle Holder</h3>
       <p>$26 – Quirky bronze-finish frog on lily pad. Whimsical and functional.</p>
     </a>
@@ -42,7 +42,7 @@ Here you'll find stories, styling tips, and shopable treasures.
 
   <div class="listing">
     <a href="https://www.etsy.com/listing/4310330443/mid-century-pigeon-forge-pottery-owl" target="_blank">
-      <img src="https://i.etsystatic.com/49013698/r/il/5c6c85/5803329289/il_794xN.5803329289_9bqg.jpg" alt="Pigeon Forge Pottery Owl">
+      <img src="/assets/images/pigeonowl.jpg" alt="Pigeon Forge Pottery Owl">
       <h3>Pigeon Forge Pottery Owl</h3>
       <p>$48 – Mid-century handmade owl figurine. Studio pottery charm.</p>
     </a>
