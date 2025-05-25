@@ -33,8 +33,8 @@ Framing a photo or artwork in a brass picture frame immediately elevates it. I f
 Brass and greenery are a match made in heaven. Try styling small brass planters with trailing vines, or use a brass tray to hold freshly cut fern leaves. The contrast of soft green with golden metal just works.
 
 <figure style="text-align: center;">
-  <img src="" alt="Incorporating Brass Planters" width="600">
-  <figcaption>My growing brass frame collection</figcaption>
+  <img src="assets/images/brassplants.jpg" alt="Incorporating Brass Planters" width="600">
+  <figcaption>Incorporating Brass Planters</figcaption>
 </figure>
 
 ---
