@@ -9,7 +9,7 @@ permalink: /blog/
 {% if site.posts.size > 0 %}
 <div class="post-grid">
   {% for post in site.posts %}
-    {% unless post.categories contains "diy" %}
+    {% unless post.categories contains "diy" or post.categories contains "vintage" %}
       <div class="post-card">
         <a href="{{ post.url }}">
           <div class="img-wrapper">
