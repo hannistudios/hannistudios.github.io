@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to Style Vintage Brass
+title: How to Style Brass
 permalink: /2025/05/23/how-to-style-vintage-brass.html
 featured_image: /assets/images/brassgallery.jpeg
 ---
