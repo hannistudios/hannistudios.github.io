@@ -1,17 +1,30 @@
+<div id="mc_embed_shell">
+      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
 <div id="mc_embed_signup">
-  <form action="https://hannistudio.us5.list-manage.com/subscribe/post?u=2f3d072c8704a188a62e5d827&amp;id=1c0a6e3cdb&amp;f_id=0073bdedf0" method="post" target="_blank" novalidate>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; margin-bottom: 1rem;">Subscribe for updates</h2>
-    
-    <label for="mce-EMAIL" style="display:block; font-weight:600; margin-bottom:0.25rem;">Email Address <span style="color:#c00">*</span></label>
-    <input type="email" name="EMAIL" id="mce-EMAIL" required style="width:100%; padding:0.5rem; border:1px solid #ccc; border-radius:8px; margin-bottom:1rem; font-family:'Inter', sans-serif;">
-
-    <label for="mce-FNAME" style="display:block; font-weight:600; margin-bottom:0.25rem;">First Name</label>
-    <input type="text" name="FNAME" id="mce-FNAME" style="width:100%; padding:0.5rem; border:1px solid #ccc; border-radius:8px; margin-bottom:1.5rem; font-family:'Inter', sans-serif;">
-
-    <input type="submit" value="Subscribe" name="subscribe" style="background-color:#333; color:white; border:none; border-radius:8px; padding:0.75rem 1.5rem; font-family:'Inter', sans-serif; cursor:pointer; font-weight:600;">
-
-    <div style="position:absolute; left:-5000px;" aria-hidden="true">
-      <input type="text" name="b_2f3d072c8704a188a62e5d827_1c0a6e3cdb" tabindex="-1" value="">
+    <form action="https://hannistudio.us5.list-manage.com/subscribe/post?u=2f3d072c8704a188a62e5d827&amp;id=1c0a6e3cdb&amp;f_id=0073bdedf0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+        <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
+            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div>
+        <div id="mce-responses" class="clear foot">
+            <div class="response" id="mce-error-response" style="display: none;"></div>
+            <div class="response" id="mce-success-response" style="display: none;"></div>
+        </div>
+    <div aria-hidden="true" style="position: absolute; left: -5000px;">
+        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+        <input type="text" name="b_2f3d072c8704a188a62e5d827_1c0a6e3cdb" tabindex="-1" value="">
     </div>
-  </form>
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+                <p style="margin: 0px auto;"><a href="http://eepurl.com/jfCwAU" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
+            </div>
+        </div>
+    </div>
+</form>
 </div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='COMPANY';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
