@@ -2,7 +2,7 @@
 layout: default
 title: Decorating With Wicker
 permalink: /2025/05/24/decorating-with-wicker.html
-featured_image: 
+featured_image: /assets/images/decoratewithwicker.jpg
 ---
 
 # Decorating With Wicker
