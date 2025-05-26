@@ -36,23 +36,6 @@
       margin-top: 1.5rem;
     }
 
-    a {
-      color: #4A6F6F;
-      text-decoration: none;
-      border-bottom: 1px dotted #4A6F6F;
-      transition: color 0.2s ease, border-bottom 0.2s ease;
-    }
-
-    a:hover,
-    a:focus {
-      color: #2F4F4F;
-      border-bottom: 1px solid #2F4F4F;
-    }
-
-    a:visited {
-      color: #4A6F6F;
-    }
-
     nav {
       background: #f9f9f9;
       padding: 1rem;
@@ -63,17 +46,15 @@
     nav a {
       margin: 0 1rem;
       text-decoration: none;
-      color: #000;
+      color: #333;
       font-weight: 700;
       font-family: 'Inter', sans-serif;
       text-transform: uppercase;
       letter-spacing: 0.05em;
-      border-bottom: none;
     }
 
     nav a:hover {
-      color: #000;
-      text-decoration: none;
+      text-decoration: underline;
     }
 
     main {
@@ -118,6 +99,7 @@
       text-decoration: underline;
     }
 
+    /* ✅ Post Grid Styles */
     .post-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -175,6 +157,7 @@
       margin: 1.5rem auto;
     }
 
+    /* ✅ Listing Grid for Etsy-style Products */
     .listing-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
