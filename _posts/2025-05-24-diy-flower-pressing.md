@@ -2,7 +2,7 @@
 layout: default
 title: DIY Flower Pressing
 permalink: /2025/05/24/diy-flower-pressing.html
-featured_image: 
+featured_image: /assets/images/pressedflower.jpeg
 categories: [diy]
 ---
 
