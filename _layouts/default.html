@@ -62,19 +62,18 @@
 
     nav a {
       margin: 0 1rem;
-      color: #000 !important;
+      text-decoration: none;
+      color: #000;
       font-weight: 700;
       font-family: 'Inter', sans-serif;
       text-transform: uppercase;
       letter-spacing: 0.05em;
-      text-decoration: none !important;
-      border-bottom: none !important;
+      border-bottom: none;
     }
 
     nav a:hover {
-      color: #000 !important;
-      text-decoration: none !important;
-      border-bottom: none !important;
+      color: #000;
+      text-decoration: none;
     }
 
     main {
@@ -219,4 +218,33 @@
       text-decoration: none;
     }
 
-    .listing a:hove
+    .listing a:hover h3 {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    {% for item in site.navigation %}
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    {% endfor %}
+  </nav>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <div class="social-links">
+      <a href="https://instagram.com/hannistudios_" target="_blank">Instagram</a> |
+      <a href="https://pinterest.com/hannistudios" target="_blank">Pinterest</a> |
+      <a href="https://etsy.com/shop/HanniStudios" target="_blank">Etsy</a> |
+      <a href="https://youtube.com/@hannistudios1" target="_blank">YouTube</a>
+    </div>
+    <div class="legal-links">
+      <a href="/privacy-policy/">Privacy Policy</a> &nbsp;·&nbsp;
+      <a href="/terms/">Terms & Conditions</a>
+    </div>
+  </footer>
+</body>
+</html>
